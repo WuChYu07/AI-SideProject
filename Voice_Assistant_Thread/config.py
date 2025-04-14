@@ -1,1 +1,1 @@
-MUSIC_FOLDER = "C:/Users/wuche/OneDrive/Desktop/Music"
+MUSIC_FOLDER = "YOUR_MUSIC_FOLDER"
