@@ -1,4 +1,4 @@
-🗣️ voice_assistant_thread — My Final Voice-to-Text AI Project
+🗣️ Voice_Assistant_Thread — My Final Voice-to-Text AI Project
 This is the final product of my journey learning voice-to-text AI 🎯
 You can also explore my earlier experiments and practice code in other files within this repo 🧪📁
 
