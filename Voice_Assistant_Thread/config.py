@@ -1,0 +1,1 @@
+MUSIC_FOLDER = "C:/Users/wuche/OneDrive/Desktop/Music"
